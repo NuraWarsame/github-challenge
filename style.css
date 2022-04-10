@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(219, 194, 196);
+}
+
+.col-2 {
+  font-family: monospace;
+  text-align: center;
+  padding: 12px;
+}
+
+.col-4 {
+  text-align: center;
+  padding: 10px;
+  font-weight: normal;
+  border-color: black;
+  border-style: solid;
+  margin: 20px 10px;
+}
+
+.col-3 {
+  padding: 20px;
+  border-radius: 40px;
+  margin: 10px;
+  border-color: rgb(161, 134, 235);
+  border-style: solid;
+}
+
+.inline {
+  display: inline;
+}
+
+h1 {
+  color: #320b52;
+  font-family: monospace;
+  padding: 50px 50px 0px;
+}
